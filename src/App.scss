@@ -1,0 +1,25 @@
+
+// DEFINE ELEMENTS HERE
+// e.g. $red-color:
+$solid-black: #000000;
+$main-orange: #FF914D;
+
+
+
+@import './style/Navbar.scss';
+@import './style/Banner.scss';
+@import './style/Shopping.scss';
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,36 @@
+
+#navbar{
+  display: flex; /* helps sit nav at top of the page */
+  background-color: $solid-black;
+  color: white;
+}
+
+.navlinks{
+  list-style: none;
+  display: flex;
+  // gap: 1.2rem;
+  margin-right: 1.5em;
+}
+
+.navlinks li{
+  padding: 1rem;
+}
+
+.navlinks a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: 200ms ease-in-out;
+  font-size: 1.2rem;
+}
+
+.navlinks a:hover{
+  color: $main-orange;
+}
+
+.logo{
+  max-width: 15%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
