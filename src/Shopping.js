@@ -138,7 +138,7 @@ function Shopping(){
 
       <div className="shopping-opening">
        <span className="title-wrapper"><img className="cobweb-1" src="images/cobweb.png" alt="cobweb" /> <h2>Halloween Costumes</h2> <img className="cobweb-2" src="images/cobweb.png" alt="cobweb" /></span>
-        <h4 className="shopping-intro">Welcome to Frightful Fashion, your gateway to Halloween enchantment! Dive into our vast collection of costumes that cater to all ages, ensuring everyone can revel in the spine-tingling fun of this haunted holiday. From little monsters to seasoned spooksters, discover the perfect attire to unleash your inner ghouls and ghosts. Whether you're trick-or-treating with the kids or haunting the night away, Frightful Fashion has you covered. Embrace the spirit of Halloween in style!</h4>
+        <h4 className="shopping-intro">Welcome to Frightful Fashion, your gateway to Halloween enchantment! Dive into our vast collection of costumes that cater to all ages, ensuring everyone can revel in the <em>spine-tingling</em> fun of this haunted holiday. From <em>little monsters</em> to <em>seasoned spooksters</em>, discover the perfect attire to unleash your inner <em>ghouls</em> and <em>ghosts</em>. Whether you're trick-or-treating with the kids or haunting the night away, Frightful Fashion has you covered. Embrace the spirit of Halloween in style!</h4>
       </div>
 
       <div className="sort">

@@ -29,5 +29,6 @@
 }
 
 .shop-btn:hover{
-  opacity: .8;
+  background-color: $hover-orange;
+  border: 1px solid $hover-orange;
 }

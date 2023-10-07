@@ -3,6 +3,7 @@
 // e.g. $red-color:
 $solid-black: #000000;
 $main-orange: #FF914D;
+$hover-orange: #d1753b;
 $creepster: 'Creepster', cursive;
 
 
@@ -10,6 +11,7 @@ $creepster: 'Creepster', cursive;
 @import './style/Navbar.scss';
 @import './style/Banner.scss';
 @import './style/Shopping.scss';
+@import './style/Footer.scss';
 
 *{
   box-sizing: border-box;
